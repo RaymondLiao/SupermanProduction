@@ -1,12 +1,12 @@
 {
     "max_superman_proj":
     {
-        "test": "0.1.7",
-        "formal": "0.0.20"
+        "test": "0.1.21",
+        "formal": "0.0.21"
     },
     "maya_superman_proj_ngr":
     {
-        "test": "0.3.9",
-        "formal": "0.4.2"
+        "test": "0.3.11",
+        "formal": "0.4.6"
     }
 }
